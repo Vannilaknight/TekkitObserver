@@ -1,0 +1,19 @@
+{
+  "name": "tobserve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vannilaknight/TekkitObserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vannilaknight/TekkitObserver/issues"
+  },
+  "homepage": "https://github.com/Vannilaknight/TekkitObserver#readme"
+}
