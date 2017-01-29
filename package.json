@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vannilaknight/TekkitObserver/issues"
   },
-  "homepage": "https://github.com/Vannilaknight/TekkitObserver#readme"
+  "homepage": "https://github.com/Vannilaknight/TekkitObserver#readme",
+  "dependencies": {
+    "growing-file": "^0.1.3"
+  }
 }
